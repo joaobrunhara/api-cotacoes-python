@@ -21,7 +21,7 @@ O projeto demonstra conceitos práticos de desenvolvimento backend, consumo de s
 
 3. Inicie o servidor de desenvolvimento:
    
-python app_precos.py
+   python app_precos.py
 
 4. Acesse as rotas diretamente no seu navegador:
 * **Página Inicial**: http://127.0.0.1:5000/
