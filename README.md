@@ -16,17 +16,16 @@ O projeto demonstra conceitos práticos de desenvolvimento backend, consumo de s
    git clone [https://github.com/SEU-USUARIO/monitor-cotacoes-flask.git](https://github.com/SEU-USUARIO/monitor-cotacoes-flask.git)
 
 2. Instale as dependências necessárias:
-
+   ```bash
    pip install -r requirements.txt
 
 3. Inicie o servidor de desenvolvimento:
-
-   python app_precos.py
+   
+python app_precos.py
 
 4. Acesse as rotas diretamente no seu navegador:
-
-   Página Inicial: http://127.0.0.1:5000/
-   Endpoint de Cotações: http://127.0.0.1:5000/precos
+* **Página Inicial**: http://127.0.0.1:5000/
+* **Endpoint de Cotações**: http://127.0.0.1:5000/precos
 
 ## 🧠 Conceitos Praticados e Aprendidos
 * **Arquitetura de APIs REST**: Integração de sistemas utilizando verbos HTTP.
